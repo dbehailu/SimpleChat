@@ -10,6 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.codepath.android.simplechat.R;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;
